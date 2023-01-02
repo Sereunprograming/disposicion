@@ -1,0 +1,13 @@
+# disposicion
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    
+    
+    
+}
+
+.imagenes img{
+    width: 300px;
+}
